@@ -12,7 +12,7 @@ I'm a passionate Computer Science student with a keen interest in frontend devel
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🚀 **Experience**: I'm currently doing a virtual internship at **Tutor Joe's Software Solution**, where I'm further honing my skills and gaining real-world experience.
+🚀 **Looking for**: I'm currently seeking internship opportunities to further develop my skills and gain hands-on experience in the field of web development.
 
 I'm eager to continue expanding my skills and diving deeper into the world of web development. I enjoy tackling new challenges, learning from the developer community, and contributing to open-source projects.
 
@@ -21,6 +21,7 @@ I'm eager to continue expanding my skills and diving deeper into the world of we
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iswarya%20Sundarrajan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iswarya26/)
 
 Feel free to check out my repositories and connect with me!
+
 
 
 

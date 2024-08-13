@@ -3,16 +3,16 @@
 🎓 **Final Year B.Sc. Computer Science Student at Anna Adarsh College for Women**  
 🌐 **Aspiring Frontend Developer**  
 
-I'm a passionate Computer Science student with a keen interest in frontend development. I love creating beautiful and responsive web designs that bring ideas to life. Currently, I'm focused on mastering the essentials of frontend development.
+I'm a passionate Computer Science student with a keen interest in frontend development. I love creating beautiful and responsive web designs that bring ideas to life.
 
-🚀 **Experience**: I'm currently doing a virtual internship at **Tutor Joe's Software Solution**, where I'm further honing my skills and gaining real-world experience.
+💻 **I code in**:
 
-## I code in:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🚀 **Experience**: I'm currently doing a virtual internship at **Tutor Joe's Software Solution**, where I'm further honing my skills and gaining real-world experience.
 
 I'm eager to continue expanding my skills and diving deeper into the world of web development. I enjoy tackling new challenges, learning from the developer community, and contributing to open-source projects.
 
@@ -20,7 +20,7 @@ I'm eager to continue expanding my skills and diving deeper into the world of we
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iswarya%20Sundarrajan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iswarya26/)
 
-Feel free to check out my repositories and connect with
+Feel free to check out my repositories and connect with me!
 
 
 

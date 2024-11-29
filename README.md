@@ -14,7 +14,7 @@ I'm a passionate Computer Science student with a keen interest in frontend devel
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-🚀 **Looking for**: I'm currently seeking internship opportunities to further develop my skills and gain hands-on experience in the field of web development.
+🚀 **Looking for**: I'm currently seeking for opportunities to further develop my skills and gain hands-on experience in the field of web development.
 
 I'm eager to continue expanding my skills and diving deeper into the world of web development. I enjoy tackling new challenges, learning from the developer community, and contributing to open-source projects.
 

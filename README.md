@@ -1,41 +1,30 @@
 ## 👋 Hello, I'm Iswarya Sundarrajan!
 
-🎓 **Final Year B.Sc. Computer Science Student at Anna Adarsh College for Women**  
-🌐 **Aspiring Frontend Developer**  
+🎓 **Final Year B.Sc. Computer Science Student**  
+🌐 **Aspiring Frontend Developer**
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+- 🔭 Here's my [portfolio](https://iswarya-sundarrajan.netlify.app/)                                                 
+- 🌱 I’m currently learning Web development
+- 👯 I’m looking to collaborate on Javascript Projects
+- 🤔 I’m looking looking for opportunities in **Frontend Development**.
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" style="height: 28px; border-radius: 0px;" />](mailto:emails2iswarya1506@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+- 😄 Pronouns: Techie
 
-I'm a passionate Computer Science student with a keen interest in frontend development. I love creating beautiful and responsive web designs that bring ideas to life.
+### I code in
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
-💻 **I code in**:
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+###
 
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Iswarya-S26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iswarya-S26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🚀 **Looking for**: I'm currently seeking for opportunities to further develop my skills and gain hands-on experience in the field of web development.
+###
 
-I'm eager to continue expanding my skills and diving deeper into the world of web development. I enjoy tackling new challenges, learning from the developer community, and contributing to open-source projects.
-
-📫 **How to reach me**:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iswarya%20Sundarrajan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iswarya26/)
-
-Feel free to check out my repositories and connect with me!
-
-
-
-
-<!---
-Iswarya-S26/Iswarya-S26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @Iswarya-S26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->

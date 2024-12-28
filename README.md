@@ -6,7 +6,7 @@
 - 🔭 Here's my [portfolio](https://iswarya-sundarrajan.netlify.app/)                                                 
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on Javascript Projects
-- 🤔 I’m looking looking for opportunities in **Frontend Development**.
+- 🤔 I’m seeking for opportunities in **Frontend Development**.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" style="height: 28px; border-radius: 0px;" />](mailto:emails2iswarya1506@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iswarya26/)

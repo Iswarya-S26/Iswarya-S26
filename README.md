@@ -27,3 +27,8 @@
 
 ###
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iswarya-S26&theme=xcode&hide_border=true" />
+</div>
+  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+

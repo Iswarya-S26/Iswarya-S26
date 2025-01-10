@@ -4,8 +4,7 @@
 🌐 **Aspiring Frontend Developer**
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 - 🔭 Here's my [portfolio](https://iswarya-sundarrajan.netlify.app/)                                                 
-- 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on Javascript Projects
+- 🌱 I’m currently learning Web development and looking to collaborate on JavaScript projects.
 - 🤔 I’m seeking for opportunities in **Frontend Development**.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
